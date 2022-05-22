@@ -9,7 +9,7 @@ Flutter ile Sqlit'a bağlanarak veri ekleme. Bu projede Todo list(yapılacaklar 
 İlk arayüzde Title, Description, ve Date verileri girilip Dropdown listesinden kategori seçilmektedir.
 
 Ardından Save butonuna basınca veri Drawer menüdeki seçilen kategoriye göre listeye eklenmiş oluyor
-ve girilen veri aynı zamanda Anasayfaya eklenmiş oluyor. Kategori seçildikten sonra ilgili kategorinin todo’larının listelendiği ekrana yönlendiriliyor
+ve girilen veri aynı zamanda Anasayfaya eklenmiş oluyor. Kategori seçildikten sonra ilgili kategorinin todo’larının listelendiği ekrana yönlendiriliyor.
 
 Drawer menüde Avatar fotoğrafı ve Kullanıcı Adı vardır.
 Home ve Kategoriler seçilebilmektedir.
